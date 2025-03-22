@@ -1,9 +1,8 @@
 # Unlocking-Subcontracting-Opportunities_Viz
-# Federal Subcontracting Opportunities Dashboard
 
 ## 📊 Overview
 
-The data used in this project comes from the **GSA Subcontracting Directory** for Small Businesses, which provides detailed information on federal contracts awarded to large prime contractors who are legally required to subcontract portions of their work to small businesses. This dataset includes contract values, agency details, vendor locations, and subcontracting plan types. **For small businesses looking to enter the federal marketplace, this data is a valuable resource—it helps identify potential prime contractors to partner with, high-value industries, and geographic regions with strong subcontracting activity**. By analyzing this information, small business owners can make more informed decisions about where to focus their outreach, which agencies to target, and how to align their services with federal demand.
+The data used in this project comes from the **GSA Subcontracting Directory** for Small Businesses, which provides detailed information on federal contracts awarded to large prime contractors who are legally required to subcontract portions of their work to small businesses. This dataset includes contract values, agency details, vendor locations, and subcontracting plan types. **For small businesses looking to enter the federal marketplace, this visualization is a valuable resource—it helps identify potential prime contractors to partner with, high-value industries, and geographic regions with strong subcontracting activity**. By analyzing this information, small business owners can make more informed decisions about where to focus their outreach, which agencies to target, and how to align their services with federal demand.
 
 The dashboard allows users to:
 - Explore federal contract activity across time, geography, and industry
