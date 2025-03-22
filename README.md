@@ -1,5 +1,5 @@
 # Unlocking-Subcontracting-Opportunities_Viz
-# 🧾 Federal Subcontracting Opportunities Dashboard
+# Federal Subcontracting Opportunities Dashboard
 
 ## 📊 Overview
 
@@ -11,7 +11,7 @@ The dashboard allows users to:
 - Track subcontract plan types (Commercial, Individual, Comprehensive, etc.)
 - Find high-potential cities and states for business development
 
-👉 **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SubcontractingDirectoryforSmallBusinesses/UnlockingSubcontractingOpportunities?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+ **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SubcontractingDirectoryforSmallBusinesses/UnlockingSubcontractingOpportunities?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -49,11 +49,11 @@ This dashboard is particularly valuable for:
 
 ## 🔍 Key Visualizations
 
-- 📍 **Map of subcontracting opportunities by state and city**
-- 🏢 **Top prime contractors with active subcontracting plans**
-- 💼 **Contract value trends over time**
-- 🧾 **Subcontract plan distribution**
-- 🧠 **Industry breakdown by NAICS code**
+-  **Map of subcontracting opportunities by state and city**
+-  **Top prime contractors with active subcontracting plans**
+-  **Contract value trends over time**
+-  **Subcontract plan distribution**
+-  **Industry breakdown by NAICS code**
 
 ---
 
