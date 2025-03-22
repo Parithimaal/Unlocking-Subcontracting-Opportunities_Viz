@@ -11,7 +11,7 @@ The dashboard allows users to:
 - Track subcontract plan types (Commercial, Individual, Comprehensive, etc.)
 - Find high-potential cities and states for business development
 
- **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SubcontractingDirectoryforSmallBusinesses/UnlockingSubcontractingOpportunities?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+ **[Click here to view the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SubcontractingDirectoryforSmallBusinesses/UnlockingSubcontractingOpportunities?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
